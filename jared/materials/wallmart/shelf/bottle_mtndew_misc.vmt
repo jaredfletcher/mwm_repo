@@ -1,0 +1,5 @@
+"LightMappedGeneric"
+	{
+		"$basetexture" "wallmart/shelf/bottle_mtndew_misc"
+		"$alphatest" "1"
+	}
