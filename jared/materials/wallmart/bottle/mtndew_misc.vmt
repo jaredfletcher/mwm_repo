@@ -1,0 +1,6 @@
+"LightMappedGeneric"
+	{
+		"$basetexture" "wallmart/bottle/mtndew_misc"
+		"$surfaceprop" "plastic"
+		"$alphatest" "1"
+	}
