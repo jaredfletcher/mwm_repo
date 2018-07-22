@@ -1,6 +1,7 @@
 "LightmappedGeneric"
 {
-	"$basetexture" "wallmart\cereal\reeses_puffs_basecolor"
+	"%tooltexture" "wallmart/tools/toolsbasecolor"
+	"$color" "{229 93 27}"
 	"$surfaceprop" "cardboard"
 	"%keywords" "mcwallmart,wallmart"
 }

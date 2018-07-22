@@ -1,6 +1,7 @@
 "LightmappedGeneric"
 {
-	"$basetexture" "wallmart\cereal\capn_crunch_berries_basecolor"
+	"%tooltexture" "wallmart/tools/toolsbasecolor"
+	"$color" "{248 220 27}"
 	"$surfaceprop" "cardboard"
 	"%keywords" "mcwallmart,wallmart"
 }
