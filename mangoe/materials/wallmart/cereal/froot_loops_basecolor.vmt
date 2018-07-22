@@ -1,5 +1,6 @@
 "LightmappedGeneric"
-	{
-		"$basetexture" "wallmart\cereal\froot_loops_basecolor"
-		"$surfaceprop" "cardboard"
-	}
+{
+	"$basetexture" "wallmart\cereal\froot_loops_basecolor"
+	"$surfaceprop" "cardboard"
+	"%keywords" "mcwallmart,wallmart"
+}

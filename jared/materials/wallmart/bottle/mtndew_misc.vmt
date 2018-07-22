@@ -1,6 +1,7 @@
 "LightmappedGeneric"
-	{
-		"$basetexture" "wallmart/bottle/mtndew_misc"
-		"$surfaceprop" "plastic"
-		"$alphatest" "1"
-	}
+{
+	"$basetexture" "wallmart/bottle/mtndew_misc"
+	"$surfaceprop" "plastic"
+	"$alphatest" "1"
+	"%keywords" "mcwallmart,wallmart"
+}
