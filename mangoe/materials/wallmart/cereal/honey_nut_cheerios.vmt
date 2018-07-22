@@ -1,6 +1,6 @@
 "LightmappedGeneric"
 {
-	"$basetexture" "wallmart\cereal\honey_nut_cheerios"
+	"$basetexture" "wallmart/cereal/honey_nut_cheerios"
 	"$surfaceprop" "cardboard"
 	"%keywords" "mcwallmart,wallmart"
 }
