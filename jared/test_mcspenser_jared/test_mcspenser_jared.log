@@ -1,0 +1,206 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2 dev\tf\materials
+Loading e:\workspace\mapstuff\github\mwm_repo\jared\test_mcspenser_jared\test_mcspenser_jared.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing e:\workspace\mapstuff\github\mwm_repo\jared\test_mcspenser_jared\test_mcspenser_jared.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (10007 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 46 texinfos to 23
+Reduced 7 texdatas to 7 (138 bytes to 138)
+Writing e:\workspace\mapstuff\github\mwm_repo\jared\test_mcspenser_jared\test_mcspenser_jared.bsp
+Wrote ZIP buffer, estimated size 105925, actual size 105711
+0 seconds elapsed
+
+
+
+32 threads
+reading e:\workspace\mapstuff\github\mwm_repo\jared\test_mcspenser_jared\test_mcspenser_jared.bsp
+reading e:\workspace\mapstuff\github\mwm_repo\jared\test_mcspenser_jared\test_mcspenser_jared.prt
+  13 portalclusters
+  28 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 169
+Average clusters visible: 13
+Building PAS...
+Average clusters audible: 13
+visdatasize:160  compressed from 208
+writing e:\workspace\mapstuff\github\mwm_repo\jared\test_mcspenser_jared\test_mcspenser_jared.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+[Reading texlights from 'mwm_lights.rad']
+[6 texlights parsed from 'mwm_lights.rad']
+
+Loading e:\workspace\mapstuff\github\mwm_repo\jared\test_mcspenser_jared\test_mcspenser_jared.bsp
+84 faces
+6775 square feet [975616.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+84 patches before subdivision
+480 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 5747, max 91
+transfer lists:   0.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0001 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  10/1024          480/49152    ( 1.0%) 
+brushes                 23/8192          276/98304    ( 0.3%) 
+brushsides             138/65536        1104/524288   ( 0.2%) 
+planes                 124/65536        2480/1310720  ( 0.2%) 
+vertexes               126/65536        1512/786432   ( 0.2%) 
+nodes                   85/65536        2720/2097152  ( 0.1%) 
+texinfos                23/12288        1656/884736   ( 0.2%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                   84/65536        4704/3670016  ( 0.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               77/65536        4312/3670016  ( 0.1%) 
+leaves                  96/65536        3072/2097152  ( 0.1%) 
+leaffaces              100/65536         200/131072   ( 0.2%) 
+leafbrushes             27/65536          54/131072   ( 0.0%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges              670/512000       2680/2048000  ( 0.1%) 
+edges                  372/256000       1488/1024000  ( 0.1%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              4/32768          40/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            66/65536         132/131072   ( 0.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]        6392/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]         160/16777216 ( 0.0%) 
+entdata               [variable]        8185/393216   ( 2.1%) 
+LDR ambient table       96/65536         384/262144   ( 0.1%) 
+HDR ambient table       96/65536         384/262144   ( 0.1%) 
+LDR leaf ambient        67/65536        1876/1835008  ( 0.1%) 
+HDR leaf ambient        96/65536        2688/1835008  ( 0.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      105711/0        ( 0.0%) 
+physics               [variable]       10007/4194304  ( 0.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 1
+
+Total triangle count: 194
+Writing e:\workspace\mapstuff\github\mwm_repo\jared\test_mcspenser_jared\test_mcspenser_jared.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+[Reading texlights from 'mwm_lights.rad']
+[6 texlights parsed from 'mwm_lights.rad']
+
+Loading e:\workspace\mapstuff\github\mwm_repo\jared\test_mcspenser_jared\test_mcspenser_jared.bsp
+84 faces
+6775 square feet [975616.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+84 patches before subdivision
+480 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 5747, max 91
+transfer lists:   0.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0001 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  10/1024          480/49152    ( 1.0%) 
+brushes                 23/8192          276/98304    ( 0.3%) 
+brushsides             138/65536        1104/524288   ( 0.2%) 
+planes                 124/65536        2480/1310720  ( 0.2%) 
+vertexes               126/65536        1512/786432   ( 0.2%) 
+nodes                   85/65536        2720/2097152  ( 0.1%) 
+texinfos                23/12288        1656/884736   ( 0.2%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                   84/65536        4704/3670016  ( 0.1%) 
+hdr faces               84/65536        4704/3670016  ( 0.1%) 
+origfaces               77/65536        4312/3670016  ( 0.1%) 
+leaves                  96/65536        3072/2097152  ( 0.1%) 
+leaffaces              100/65536         200/131072   ( 0.2%) 
+leafbrushes             27/65536          54/131072   ( 0.0%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges              670/512000       2680/2048000  ( 0.1%) 
+edges                  372/256000       1488/1024000  ( 0.1%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              4/32768          40/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            66/65536         132/131072   ( 0.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]        6392/0        ( 0.0%) 
+HDR lightdata         [variable]        6392/0        ( 0.0%) 
+visdata               [variable]         160/16777216 ( 0.0%) 
+entdata               [variable]        8185/393216   ( 2.1%) 
+LDR ambient table       96/65536         384/262144   ( 0.1%) 
+HDR ambient table       96/65536         384/262144   ( 0.1%) 
+LDR leaf ambient        67/65536        1876/1835008  ( 0.1%) 
+HDR leaf ambient        67/65536        1876/1835008  ( 0.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      105711/0        ( 0.0%) 
+physics               [variable]       10007/4194304  ( 0.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 3
+
+Total triangle count: 194
+Writing e:\workspace\mapstuff\github\mwm_repo\jared\test_mcspenser_jared\test_mcspenser_jared.bsp
+0 seconds elapsed
