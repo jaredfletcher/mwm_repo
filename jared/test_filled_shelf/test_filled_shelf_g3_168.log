@@ -1,0 +1,49 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2 dev\tf\materials
+Loading e:\workspace\mapstuff\github\mwm_repo\jared\test_filled_shelf\test_filled_shelf_g3_168.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Brush 3508881: num_entities == MAX_MAP_ENTITIES
+Side 5
+Texture: DEV/REFLECTIVITY_20
+
+
+
+32 threads
+reading e:\workspace\mapstuff\github\mwm_repo\jared\test_filled_shelf\test_filled_shelf_g3_168.bsp
+Error opening e:\workspace\mapstuff\github\mwm_repo\jared\test_filled_shelf\test_filled_shelf_g3_168.bsp
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+[Reading texlights from 'mwm_lights.rad']
+[6 texlights parsed from 'mwm_lights.rad']
+
+Loading e:\workspace\mapstuff\github\mwm_repo\jared\test_filled_shelf\test_filled_shelf_g3_168.bsp
+Error opening e:\workspace\mapstuff\github\mwm_repo\jared\test_filled_shelf\test_filled_shelf_g3_168.bsp
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2 dev\tf\materials
+Loading e:\workspace\mapstuff\github\mwm_repo\jared\test_filled_shelf\test_filled_shelf_g3_168.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Brush 3508881: num_entities == MAX_MAP_ENTITIES
+Side 5
+Texture: DEV/REFLECTIVITY_20
+
+
+
+32 threads
+reading e:\workspace\mapstuff\github\mwm_repo\jared\test_filled_shelf\test_filled_shelf_g3_168.bsp
+Error opening e:\workspace\mapstuff\github\mwm_repo\jared\test_filled_shelf\test_filled_shelf_g3_168.bsp
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+[Reading texlights from 'mwm_lights.rad']
+[6 texlights parsed from 'mwm_lights.rad']
+
+Loading e:\workspace\mapstuff\github\mwm_repo\jared\test_filled_shelf\test_filled_shelf_g3_168.bsp
+Error opening e:\workspace\mapstuff\github\mwm_repo\jared\test_filled_shelf\test_filled_shelf_g3_168.bsp

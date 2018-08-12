@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "7937"
-	"mapversion" "16"
+	"mapversion" "17"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -68,7 +68,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "16"
+	"mapversion" "17"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -1247,7 +1247,7 @@ hidden
 				editor
 				{
 					"color" "180 180 0"
-					"visgroupshown" "0"
+					"visgroupshown" "1"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -1431,10 +1431,10 @@ entity
 	"renderfx" "0"
 	"rendermode" "0"
 	"solidbsp" "0"
-	"Solidity" "0"
+	"Solidity" "2"
 	"spawnflags" "2"
 	"StartDisabled" "0"
-	"vrad_brush_cast_shadows" "0"
+	"vrad_brush_cast_shadows" "1"
 	solid
 	{
 		"id" "865"
