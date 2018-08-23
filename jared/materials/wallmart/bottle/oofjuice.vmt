@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "wallmart/bottle/oofjuice"
+	"$surfaceprop" "glassbottle"
+	"$alphatest" "1"
+	"%keywords" "mcwallmart,wallmart"
+}
