@@ -1,0 +1,307 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2 dev\tf\materials
+Loading e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_174.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/mcwallmart_g3_174/blend/concretefloor035a_wvt_patch
+Patching WVT material: maps/mcwallmart_g3_174/concrete/custom033oblend_wvt_patch
+Patching WVT material: maps/mcwallmart_g3_174/concrete/trashconcreteblend_wvt_patch
+Patching WVT material: maps/mcwallmart_g3_174/harvest/ground_to_green_grass_001_wvt_patch
+Patching WVT material: maps/mcwallmart_g3_174/nature/sanddirtgrass_blend_wvt_patch
+Patching WVT material: maps/mcwallmart_g3_174/concrete/custom011ablend_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1766 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_174.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_mwm_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_mwm_tf2_04 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_mwm_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_mwm_tf2_04 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (3) (2305453 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 8176 texinfos to 4945
+Reduced 435 texdatas to 376 (12109 bytes to 10208)
+Writing e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_174.bsp
+Wrote ZIP buffer, estimated size 22650, actual size 16808
+19 seconds elapsed
+
+
+
+32 threads
+reading e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_174.bsp
+reading e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_174.prt
+2785 portalclusters
+7349 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 11753 visible clusters (0.55%)
+Total clusters visible: 2122952
+Average clusters visible: 762
+Building PAS...
+Average clusters audible: 1921
+visdatasize:1455059  compressed from 1960640
+writing e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_174.bsp
+4 minutes, 42 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+[Reading texlights from 'mwm_lights.rad']
+[7 texlights parsed from 'mwm_lights.rad']
+
+Loading e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_174.bsp
+Loaded alpha texture materials\models\props_foliage\shrub_03_skin2.vtf
+Loaded alpha texture materials\models\props_foliage\shrub_03.vtf
+Loaded alpha texture materials\models\props_foliage\shrub_03_snow.vtf
+Loaded alpha texture materials\Models\props_gameplay\security_fence_alpha.vtf
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+28482 faces
+5 degenerate faces
+4260250 square feet [613475968.00 square inches]
+1868 Displacements
+724887 Square Feet [104383792.00 Square Inches]
+28477 patches before subdivision
+317761 patches after subdivision
+1076 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 44277696, max 2680
+transfer lists: 337.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(2914758, 2811214, 2295224)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(1099234, 1115755, 934819)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(308009, 291379, 209200)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(140265, 130046, 92737)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(46800, 39057, 22930)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(21861, 17665, 10318)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(8231, 5876, 2744)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(3883, 2653, 1227)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(1604, 958, 346)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(766, 431, 153)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(339, 166, 45)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(165, 75, 20)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(77, 30, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(38, 14, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(18, 6, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(9, 3, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(5, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.1131 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+28 of 781 (3% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 304/1024        14592/49152    (29.7%) 
+brushes               5822/8192        69864/98304    (71.1%) 
+brushsides           42383/65536      339064/524288   (64.7%) 
+planes               26158/65536      523160/1310720  (39.9%) 
+vertexes             49078/65536      588936/786432   (74.9%) 
+nodes                12648/65536      404736/2097152  (19.3%) 
+texinfos              4945/12288      356040/884736   (40.2%) 
+texdata                376/2048        12032/65536    (18.4%) 
+dispinfos             1868/0          328768/0        ( 0.0%) 
+disp_verts           59244/0         1184880/0        ( 0.0%) 
+disp_tris            81280/0          162560/0        ( 0.0%) 
+disp_lmsamples     3699524/0         3699524/0        ( 0.0%) 
+faces                28482/65536     1594992/3670016  (43.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            20854/65536     1167824/3670016  (31.8%) 
+leaves               12953/65536      414496/2097152  (19.8%) 
+leaffaces            31669/65536       63338/131072   (48.3%) 
+leafbrushes          13329/65536       26658/131072   (20.3%) 
+areas                   14/256           112/2048     ( 5.5%) 
+surfedges           220741/512000     882964/2048000  (43.1%) 
+edges               138469/256000     553876/1024000  (54.1%) 
+LDR worldlights       1076/8192        94688/720896   (13.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            4/32768          48/393216   ( 0.0%) 
+waterstrips           1807/32768       18070/327680   ( 5.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         35262/65536       70524/131072   (53.8%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays               266/512         93632/180224   (52.0%) 
+LDR lightdata         [variable]    11595660/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     1455059/16777216 ( 8.7%) 
+entdata               [variable]      422352/393216   (107.4%) VERY FULL!
+LDR ambient table    12953/65536       51812/262144   (19.8%) 
+HDR ambient table    12953/65536       51812/262144   (19.8%) 
+LDR leaf ambient     62895/65536     1761060/1835008  (96.0%) VERY FULL!
+HDR leaf ambient     12953/65536      362684/1835008  (19.8%) 
+occluders                1/0              40/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/140204   ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/119142   ( 0.0%) 
+pakfile               [variable]     4997692/0        ( 0.0%) 
+physics               [variable]     2305453/4194304  (55.0%) 
+physics terrain       [variable]      143344/1048576  (13.7%) 
+
+Level flags = 1
+
+Total triangle count: 78745
+Writing e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_174.bsp
+18 minutes, 29 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+[Reading texlights from 'mwm_lights.rad']
+[7 texlights parsed from 'mwm_lights.rad']
+
+Loading e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_174.bsp
+Loaded alpha texture materials\models\props_foliage\shrub_03_skin2.vtf
+Loaded alpha texture materials\models\props_foliage\shrub_03.vtf
+Loaded alpha texture materials\models\props_foliage\shrub_03_snow.vtf
+Loaded alpha texture materials\Models\props_gameplay\security_fence_alpha.vtf
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+28482 faces
+5 degenerate faces
+4260250 square feet [613475968.00 square inches]
+1868 Displacements
+724887 Square Feet [104383792.00 Square Inches]
+28477 patches before subdivision
+317761 patches after subdivision
+1076 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 44277696, max 2680
+transfer lists: 337.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(2914773, 2811233, 2295243)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(1099243, 1115765, 934827)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(308014, 291384, 209203)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(140268, 130048, 92738)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(46801, 39058, 22930)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(21862, 17665, 10318)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(8232, 5877, 2744)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(3883, 2653, 1227)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(1604, 958, 346)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(766, 431, 153)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(339, 166, 45)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(165, 75, 20)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(77, 30, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(38, 14, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(18, 6, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(9, 3, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(5, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.1231 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+28 of 781 (3% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 304/1024        14592/49152    (29.7%) 
+brushes               5822/8192        69864/98304    (71.1%) 
+brushsides           42383/65536      339064/524288   (64.7%) 
+planes               26158/65536      523160/1310720  (39.9%) 
+vertexes             49078/65536      588936/786432   (74.9%) 
+nodes                12648/65536      404736/2097152  (19.3%) 
+texinfos              4945/12288      356040/884736   (40.2%) 
+texdata                376/2048        12032/65536    (18.4%) 
+dispinfos             1868/0          328768/0        ( 0.0%) 
+disp_verts           59244/0         1184880/0        ( 0.0%) 
+disp_tris            81280/0          162560/0        ( 0.0%) 
+disp_lmsamples     3699524/0         3699524/0        ( 0.0%) 
+faces                28482/65536     1594992/3670016  (43.5%) 
+hdr faces            28482/65536     1594992/3670016  (43.5%) 
+origfaces            20854/65536     1167824/3670016  (31.8%) 
+leaves               12953/65536      414496/2097152  (19.8%) 
+leaffaces            31669/65536       63338/131072   (48.3%) 
+leafbrushes          13329/65536       26658/131072   (20.3%) 
+areas                   14/256           112/2048     ( 5.5%) 
+surfedges           220741/512000     882964/2048000  (43.1%) 
+edges               138469/256000     553876/1024000  (54.1%) 
+LDR worldlights       1076/8192        94688/720896   (13.1%) 
+HDR worldlights       1076/8192        94688/720896   (13.1%) 
+leafwaterdata            4/32768          48/393216   ( 0.0%) 
+waterstrips           1807/32768       18070/327680   ( 5.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         35262/65536       70524/131072   (53.8%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays               266/512         93632/180224   (52.0%) 
+LDR lightdata         [variable]    11595660/0        ( 0.0%) 
+HDR lightdata         [variable]    11595660/0        ( 0.0%) 
+visdata               [variable]     1455059/16777216 ( 8.7%) 
+entdata               [variable]      422352/393216   (107.4%) VERY FULL!
+LDR ambient table    12953/65536       51812/262144   (19.8%) 
+HDR ambient table    12953/65536       51812/262144   (19.8%) 
+LDR leaf ambient     62895/65536     1761060/1835008  (96.0%) VERY FULL!
+HDR leaf ambient     62895/65536     1761060/1835008  (96.0%) VERY FULL!
+occluders                1/0              40/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/140204   ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/119142   ( 0.0%) 
+pakfile               [variable]     9988256/0        ( 0.0%) 
+physics               [variable]     2305453/4194304  (55.0%) 
+physics terrain       [variable]      143344/1048576  (13.7%) 
+
+Level flags = 3
+
+Total triangle count: 78745
+Writing e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_174.bsp
+18 minutes, 5 seconds elapsed
