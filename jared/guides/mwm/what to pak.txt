@@ -1,0 +1,37 @@
+Things to do
+	-take picture
+		-make menu photos
+	-build cubemaps
+	-generate .nav file
+	-after paked
+		-.bz2 .bsp
+		-.bz2 .nav
+		-send to cheddy boye
+		-Crack open a Cooool diet mtn dew
+			-if out of mtn dew
+				-Guess all thats left to do is die
+					-Rip
+		-pass out
+		-repeat
+
+vide search
+	-csgo_tf folder
+		-updated in v2 to not have any hl2-csgo janked props
+	-mwm folder
+	-any custom addon folder
+
+manually pak
+	-all mwm/sound/
+		-any custom addon folder /sound/
+	-Coaches special eyes
+	-menu photos
+		-Check and rename them to the current map name
+	-water textures
+		-water cubemap
+	-soundscape File
+	-/scripts
+	-detail_mwm.vbsp
+	-mwm_lights.rad
+	-propdata.txt
+	-detail props
+		-and textures

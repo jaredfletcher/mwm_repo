@@ -1,0 +1,6 @@
+//discovered by my brother g g
+1. select all brushes
+2. press ctrl + v
+3. click and drag over all vertices and press enter
+4. press ctrl + b
+5. gg

@@ -1,0 +1,6 @@
+https://www.youtube.com/watch?v=FXmL8ngfmn8
+
+See the example.vmf
+
+**note**
+the generated models will be under the steamapps/SourceMods/propper folder

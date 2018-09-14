@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "wallmart/exterior/beige001a"
+	"$surfaceprop" "concrete"
+	"$detail" "detail\detail_concrete_02"
+	"$detailscale" "[2 2 2 ]"
+	"$detailblendfactor" "1"
+	"%keywords" "mcwallmart,wallmart"
+}

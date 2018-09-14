@@ -1,0 +1,91 @@
+( ͡© ͜ʖ ͡©)™
+
+// random sht from "fence lord"
+
+	meme bunker with uber and one way entrace and exit doors
+		-use that fancy one way door i made
+	buttons that rename the player allowing picking of spawn places
+		-might not work together with ravenholm g g
+			-duno tho
+		-boxing ring typea spawn thing
+			-maybe have like mcdee, boxing ring, normal
+				-somsht
+	an arcade
+		-gg?
+			-chucky cheeses
+	spit red garage into a gym, and a convience store
+		-heavy boxing ring in gym
+	add "Jared's" subshop to the new wallmart
+		-inside or outside gg
+		-everythings slighty off brand meamy
+
+// things to keep in mind
+
+	lower random unseen brush faces Lightmap scale if vbsp.exe thinks its hit the brush limit
+		-found out randomly in sfm when i tried to compile a huge box with one lightmap scale on the whole thing
+			-not sure if it applys to tf2 tho, sfm is the BIG dum
+				-might have some insight: https://developer.valvesoftware.com/wiki/Talk:Lightmap#Does_lightmap_increase_polycount.3F
+
+// general changes
+
+	Disable physics collision on the fence displacement border
+		-ray cast is still enabled so that should mean bullets still impact
+		-coach would like that
+
+	Test moving everything in mcdees on grid
+		-using the shift + v, select all verts, ctrl + b method
+			-making sure to snap on grid of one
+
+	Clip the drive thru window in mcdees is kinda janky
+	
+	add transparency to the posters on the mcdee walls
+
+	Better hide the out teleporter in skybox
+		-visible in map
+
+	Find some cheaper water texture for the pool
+
+
+//content concepts
+
+	skybus concept working
+		-semi truck drives in from the back road behind wallmart parks at a wallmart® gas pump thus being vulnerable to explosions explodes upon bullet impacts dropping a buncha powerups or merasmuses
+			-figure how to use the exploding semi truck from csgo / l4d (meeegggaa sicccck)
+				-exploding walls and gas pumps nsht boi
+					-gg
+	
+	underground sewer/matenence area under whole map(or atleast mcdees)
+		-dont want to make it too complex / or too simple, so players dont get stuck Hiding from eachother, need that openness
+			-make it feel small and dark so memers dont want to stay down maybe
+				-not to dark or small tho
+
+	Add big power plugs (the ones from hl2) to the sewer/matenence area underneath mcdees as if the combine had jerryrigged the sheilds onto the building and powered them thru the sewer
+		-shoot them off to disable the sheilds/uber/shelid effects (sounds nsht)
+		-plug them back in with !grab
+		-small delay spawning sparks at the doors mechs before fully comming back online
+		-maybe have a lightswitch inside mcdees to turn off some lights in the matenence area making it harder to find and disable the plugs underground
+		-maybe a camera and monitor inside mcdees aswell looking down into the sewer
+
+
+
+	//birb suggestions
+	add a "red army robin" in the mcdee fryer as a chicken nugget meam
+	add whole or some part of this song in the mcwallmart secret room, or the animeroom in the bank
+		-some filthyfrank song
+	bluspawn secret room, make top roght part of the wall passable and teleport to a room filled with sandwiches and heavy birds dancing
+
+
+
+
+// defunct
+
+// Xmas only changes
+
+Make closer lamp post also activate wallmart secret
+experiment with doubling the sound of the ice cold blaster
+Repair the tree ring logic
+Add soundscapes to xmas_town
+	-ask ched for some Dank music
+	-remove ss_outside_low
+investigate and fix wall lamps in xmas_town
+	-some are lit and some aren't

@@ -1,0 +1,5 @@
+func_occludder windows (One way windows(not %100 sure how to do this))
+func_occludder filled buildings(saw it in hl2)
+Giant areaportal sections closed and opened with triggers(saw it in hl2)
+
+the pool expensive water reduces fps by anywhere from 150 to 60 fps

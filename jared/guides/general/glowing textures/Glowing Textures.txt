@@ -1,0 +1,50 @@
+Intro:
+
+This is for glowing textures in hammer. This can broken up into 2 different aspects. Please refer to the example1.png for the difference.
+
+Lights.rad Implementation
+-----------------------------
+This is when you want a texture to light other textures AROUND the texture.
+**This will NOT light the texture itself**
+
+Step 1: Edit the rad file for the game.
+		- Go to the tf2 root directory. (should have gameinfo.txt) in it.
+		- Create a file called <somelightingname>.rad <-- This file will hold all the textures you want to light other textures
+		- Edit this <somelightingname>.rad 	
+			 - The format is:
+					{texturename} {RGBB}
+				Example:
+				{
+					metal/steeldoor001 210 193 174 200 
+					lighted/custom_lightdoor2 210 193 174 200
+					lighted/custom_lightedbulbmenu 210 193 174 200
+				}
+Step 2: Insert the following at the BEGINNING of your lights compile options in hammer
+		{
+		 -lights <somelightingname>.rad
+		}
+
+Surface Illumination
+------------------------------
+This is when you want a texture to light ITSELF
+**This will NOT light other textures around itself**
+
+Step 1: Add a layer mask to your texture
+		- In order to let the engine know what needs to be lit, you'll need a layer mask.
+		- Open the image in gimp
+		- Right click the layer and click "Add layer mask"
+		- choose "White (full opacity)"
+		- You can modify the layer mask if you wish. I copied a layer mask from /lights/flourescentcool003a.
+		- ** Note: You'll need to select "Edit Mask" to actually copy/paste the mask. Also, press Ctrl+H to anchor. **
+Step 2: Export image as TGA file
+		- uncheck RLE compression
+Step 3: Import image into VTFedit
+		- File--> Import (Don't change stock values, just hit ok)
+		- View--> Mask (This should show you your current mask, if it's white it won't change... i think)
+		- File--> (Save as) vtf
+Step 4: Change the VMT that references this texture to include the following value:
+		- "$selfillum" "1"
+Step 5 (Optional/Experimental): Change the tint of the self illuminated light:
+		- "$selfillumtint" "[1 1 1]" <-- "[<red float> <green float> <blue float>]"
+
+

@@ -1,0 +1,58 @@
+wallmart building location: Walmart Neighborhood Market, East Southeast Loop 323, Tyler, TX
+
+
+//scale reference
+to get hammer units from inches: inches x 1.15
+
+to get inches from hammer units: units / 1.15
+
+pyro hight: 80 units = 69 inch
+
+heavy hight: 88 units = 76 inch
+
+
+//aisle size reference
+aisle hight(total): 100.625 =~ 100_ongrid
+
+aisle width: 69 = 64_ongrid
+
+aisle length: 60 feet = 720 inch = 828 units 768_ongrid
+
+single shelf hight: 20.125 =~ 20_ongrid
+
+aisle spacing: 110.4 = 128_ongrid
+
+
+//rough building measurements
+sidewalk up to lower roof bevel: 24.31 feet = 291.72 inch
+
+lower roof bevel up to upper roof bevel: 45 degrees: 5.65 feet = 67.8 inch
+
+upper roof bevel straight down to main roof: 3 feet = 36 inch
+
+building width oriented looking from top front: 260.63 feet = 3127.56 inch
+
+building length: 200.32 feet = 2403.84
+
+//rough loading dock measurements
+located directly in the back middle, top goes up to lower roof bevel
+width: 24.76 feet = 297.12 inch 384 units
+length: 97.70 feet = 1172.4 inch 1280 units
+
+
+//old building dimensions (outer)
+width: 3584 units = 3116.521739130435 inches
+length: 2688 units = 2337.391304347826 inches
+
+//new building dimensions (in theory(not on 128 grid(Rip(Need cheds help( ͡© ͜ʖ ͡©)™))))
+width: 3127.56 inch = 3596.694 units
+length: 2403.84 inch = 2764.416 units
+
+Preti close g g
+
+width: 250 feet
+length: 190 feet
+
+
+
+length: 2967

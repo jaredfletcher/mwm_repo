@@ -1,0 +1,33 @@
+-mcdee
+	-right restroom floor
+		-smooth-group "1"
+
+-storm_drain/worldbox
+	-ceiling
+		-smooth-group "2"
+	-1 man hole concrete
+		-smooth-group "8"
+	-2 man hole concrete
+		-smooth-group "9"
+	-3 man hole concrete
+		-smooth-group "10"
+	-4 man hole concrete
+		-smooth-group "11"
+	-5 man hole concrete
+		-smooth-group "12"
+
+-wallmart
+	-front facade
+		-smooth-group "3"
+	-side facade
+		-smooth-group "4"
+	-side secret
+		-smooth-group "5"
+
+-garage
+	-white metal pole
+		-smooth-group "6"
+
+-pool
+	-white tile
+		-smooth-group "7"

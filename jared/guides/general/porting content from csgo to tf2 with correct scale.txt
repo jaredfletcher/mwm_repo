@@ -1,0 +1,21 @@
+How to port models from csgo, convert materials to correct version, with correct scale for use in tf2
+	-est. time: >Long time
+
+1. use GCFScape to extract all models and materials from CSGO to "Source" folder
+2. use Crowbar to decompile all models from "Source" folder to "Decompiled" folder
+	-select folder as input(Won't let you select folder from "Browse" menu)
+		-manually set input folder to "<>/Source/models"
+	-set drop down menu to the left of the "Decompile" button to "Folders and subfolders"
+3. use VTFVer to convert all materials in "Source" folder from vtf version 7.5 to version 7.4(Which TF2 requires)
+	-Check "Ignore errors" before starting
+4. use Notepad++ to replace all intances of "// Created by Crowbar 0.44.0.0" with "$scale 1.15"
+	-set filter to "*.qc"
+5. import "scripts/propdata.txt" from CSGO
+	-required
+6. use Crowbar to recompile all models from "Decompiled" folder to "Recompiled" folder
+	-select folder as input(Won't let you select folder from "Browse" menu)
+		-manually set input folder to "<>/Decompiled/models"
+	-wait a while for crowbar to respond when finished(its still going)
+7. consolidate/merge all models folders "tf/models" "Recompiled/models" and materials folder "Source/materials" into "Final"
+8. Go crack open a Nice cool refreshing Diet mtn dew Ma boye
+	-required

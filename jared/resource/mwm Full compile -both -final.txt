@@ -1,0 +1,13 @@
+$bsp_exe -game $gamedir $path\$file
+
+$vis_exe -game $gamedir $path\$file
+
+$light_exe -lights mwm_lights.rad -both -final -noskyboxrecurse -staticproppolys -textureshadows -staticproplighting -game $gamedir $path\$file
+
+copy file $path\$file.bsp $bspdir\$file.bsp
+
+$game_exe -hijack -fullscreen -w 2560 -h 1440 -dev -console -allowdebug -game $gamedir +map $file
+
+$game_exe -hijack -windowed -noborder -w 1280 -h 720 -dev -console -allowdebug -game $gamedir +map $file
+
+$game_exe -hijack -windowed -w 1280 -h 720 -dev -console -allowdebug -game $gamedir +map $file
