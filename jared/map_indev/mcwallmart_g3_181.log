@@ -1035,3 +1035,2004 @@ Level flags = 0
 Total triangle count: 18829
 Writing e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_181.bsp
 30 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2 dev\tf\materials
+Loading e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_181.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/mcwallmart_g3_181/blend/concretefloor035a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (1)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 270 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_181.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_mwm_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_mwm_tf2_04 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_mwm_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_mwm_tf2_04 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (829286 bytes)
+Error! To use model "models/props_interiors/trashcankitchen01.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_interiors/trashcankitchen01.mdl"!
+Error! prop_static using model "models/props_interiors/soap_dispenser.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_interiors/soap_dispenser.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1680 texinfos to 732
+Reduced 96 texdatas to 90 (2670 bytes to 2472)
+Writing e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_181.bsp
+Wrote ZIP buffer, estimated size 1421, actual size 1073
+6 seconds elapsed
+
+
+
+32 threads
+reading e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_181.bsp
+reading e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_181.prt
+ 607 portalclusters
+1517 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 307 visible clusters (0.28%)
+Total clusters visible: 110820
+Average clusters visible: 182
+Building PAS...
+Average clusters audible: 357
+visdatasize:93197  compressed from 97120
+writing e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_181.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+[Reading texlights from 'mwm_lights.rad']
+[7 texlights parsed from 'mwm_lights.rad']
+
+Loading e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_181.bsp
+10623 faces
+1212233 square feet [174561584.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+10623 patches before subdivision
+112781 patches after subdivision
+641 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 12351979, max 1006
+transfer lists:  94.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1522243, 1713675, 1511267)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(693211, 764883, 663605)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(204627, 205011, 149880)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(95326, 92936, 67233)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(32605, 28327, 16746)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(15352, 12864, 7539)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(5883, 4333, 2022)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(2793, 1957, 900)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(1170, 714, 256)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(562, 321, 112)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(252, 125, 34)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(123, 56, 14)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(58, 23, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(29, 10, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(14, 4, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(7, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(3, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0278 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 576 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 104/1024         4992/49152    (10.2%) 
+brushes               2126/8192        25512/98304    (26.0%) 
+brushsides           13535/65536      108280/524288   (20.7%) 
+planes                4016/65536       80320/1310720  ( 6.1%) 
+vertexes             19139/65536      229668/786432   (29.2%) 
+nodes                 4561/65536      145952/2097152  ( 7.0%) 
+texinfos               732/12288       52704/884736   ( 6.0%) 
+texdata                 90/2048         2880/65536    ( 4.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                10623/65536      594888/3670016  (16.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             6632/65536      371392/3670016  (10.1%) 
+leaves                4666/65536      149312/2097152  ( 7.1%) 
+leaffaces            11465/65536       22930/131072   (17.5%) 
+leafbrushes           3342/65536        6684/131072   ( 5.1%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            79435/512000     317740/2048000  (15.5%) 
+edges                52030/256000     208120/1024000  (20.3%) 
+LDR worldlights        641/8192        56408/720896   ( 7.8%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            550/32768        5500/327680   ( 1.7%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         10692/65536       21384/131072   (16.3%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 4/512          1408/180224   ( 0.8%) 
+LDR lightdata         [variable]     4106840/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       93197/16777216 ( 0.6%) 
+entdata               [variable]       73556/393216   (18.7%) 
+LDR ambient table     4666/65536       18664/262144   ( 7.1%) 
+HDR ambient table     4666/65536       18664/262144   ( 7.1%) 
+LDR leaf ambient     14053/65536      393484/1835008  (21.4%) 
+HDR leaf ambient      4666/65536      130648/1835008  ( 7.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/70112    ( 0.0%) 
+pakfile               [variable]     2106677/0        ( 0.0%) 
+physics               [variable]      829286/4194304  (19.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 1
+
+Total triangle count: 31606
+Writing e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_181.bsp
+5 minutes, 0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+[Reading texlights from 'mwm_lights.rad']
+[7 texlights parsed from 'mwm_lights.rad']
+
+Loading e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_181.bsp
+10623 faces
+1212233 square feet [174561584.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+10623 patches before subdivision
+112781 patches after subdivision
+641 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 12351979, max 1006
+transfer lists:  94.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1522254, 1713689, 1511282)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(693218, 764890, 663609)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(204630, 205013, 149881)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(95327, 92938, 67234)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(32606, 28328, 16746)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(15352, 12864, 7539)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(5883, 4333, 2022)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(2793, 1957, 900)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(1170, 714, 256)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(562, 321, 112)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(252, 125, 34)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(123, 56, 14)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(58, 23, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(29, 10, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(14, 4, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(7, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(3, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0291 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 576 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 104/1024         4992/49152    (10.2%) 
+brushes               2126/8192        25512/98304    (26.0%) 
+brushsides           13535/65536      108280/524288   (20.7%) 
+planes                4016/65536       80320/1310720  ( 6.1%) 
+vertexes             19139/65536      229668/786432   (29.2%) 
+nodes                 4561/65536      145952/2097152  ( 7.0%) 
+texinfos               732/12288       52704/884736   ( 6.0%) 
+texdata                 90/2048         2880/65536    ( 4.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                10623/65536      594888/3670016  (16.2%) 
+hdr faces            10623/65536      594888/3670016  (16.2%) 
+origfaces             6632/65536      371392/3670016  (10.1%) 
+leaves                4666/65536      149312/2097152  ( 7.1%) 
+leaffaces            11465/65536       22930/131072   (17.5%) 
+leafbrushes           3342/65536        6684/131072   ( 5.1%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            79435/512000     317740/2048000  (15.5%) 
+edges                52030/256000     208120/1024000  (20.3%) 
+LDR worldlights        641/8192        56408/720896   ( 7.8%) 
+HDR worldlights        641/8192        56408/720896   ( 7.8%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            550/32768        5500/327680   ( 1.7%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         10692/65536       21384/131072   (16.3%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 4/512          1408/180224   ( 0.8%) 
+LDR lightdata         [variable]     4106840/0        ( 0.0%) 
+HDR lightdata         [variable]     4106840/0        ( 0.0%) 
+visdata               [variable]       93197/16777216 ( 0.6%) 
+entdata               [variable]       73556/393216   (18.7%) 
+LDR ambient table     4666/65536       18664/262144   ( 7.1%) 
+HDR ambient table     4666/65536       18664/262144   ( 7.1%) 
+LDR leaf ambient     14053/65536      393484/1835008  (21.4%) 
+HDR leaf ambient     14052/65536      393456/1835008  (21.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/70112    ( 0.0%) 
+pakfile               [variable]     4218849/0        ( 0.0%) 
+physics               [variable]      829286/4194304  (19.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 3
+
+Total triangle count: 31606
+Writing e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_181.bsp
+5 minutes, 2 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2 dev\tf\materials
+Loading e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_181.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/mcwallmart_g3_181/blend/concretefloor035a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity func_illusionary (7.00 363.50 292.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6144.0 4608.0 1642.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6656.0 5120.0 1642.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7168.0 4608.0 1642.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6144.0 3584.0 1642.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7168.0 3584.0 1642.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6144.0 2560.0 1642.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7168.0 2560.0 1642.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6144.0 1536.0 1642.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 270 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+*** Error: Skybox vtf files for skybox/sky_mwm_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_mwm_tf2_04 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_mwm_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_mwm_tf2_04 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (847662 bytes)
+Error! To use model "models/props_interiors/trashcankitchen01.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_interiors/trashcankitchen01.mdl"!
+Error! prop_static using model "models/props_interiors/soap_dispenser.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_interiors/soap_dispenser.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1773 texinfos to 748
+Reduced 105 texdatas to 94 (3108 bytes to 2840)
+Writing e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_181.bsp
+Wrote ZIP buffer, estimated size 4035, actual size 3017
+11 seconds elapsed
+
+
+
+32 threads
+reading e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_181.bsp
+reading e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_181.prt
+LoadPortals: couldn't read e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_181.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_181.bsp
+No vis information, direct lighting only.
+11064 faces
+4278989 square feet [616174464.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+69 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0193 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 104/1024         4992/49152    (10.2%) 
+brushes               2182/8192        26184/98304    (26.6%) 
+brushsides           13871/65536      110968/524288   (21.2%) 
+planes                4066/65536       81320/1310720  ( 6.2%) 
+vertexes             19985/65536      239820/786432   (30.5%) 
+nodes                 5551/65536      177632/2097152  ( 8.5%) 
+texinfos               748/12288       53856/884736   ( 6.1%) 
+texdata                 94/2048         3008/65536    ( 4.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                11064/65536      619584/3670016  (16.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             6706/65536      375536/3670016  (10.2%) 
+leaves                5656/65536      180992/2097152  ( 8.6%) 
+leaffaces            11882/65536       23764/131072   (18.1%) 
+leafbrushes           3479/65536        6958/131072   ( 5.3%) 
+areas                    4/256            32/2048     ( 1.6%) 
+surfedges            81452/512000     325808/2048000  (15.9%) 
+edges                53066/256000     212264/1024000  (20.7%) 
+LDR worldlights         69/8192         6072/720896   ( 0.8%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            553/32768        5530/327680   ( 1.7%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         10707/65536       21414/131072   (16.3%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 4/512          1408/180224   ( 0.8%) 
+LDR lightdata         [variable]     4167452/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       86989/393216   (22.1%) 
+LDR ambient table     5656/65536       22624/262144   ( 8.6%) 
+HDR ambient table     5656/65536       22624/262144   ( 8.6%) 
+LDR leaf ambient     25699/65536      719572/1835008  (39.2%) 
+HDR leaf ambient      5656/65536      158368/1835008  ( 8.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/69992    ( 0.0%) 
+pakfile               [variable]        3017/0        ( 0.0%) 
+physics               [variable]      847662/4194304  (20.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 32447
+Writing e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_181.bsp
+1 minute, 28 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2 dev\tf\materials
+Loading e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_181.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/mcwallmart_g3_181/blend/concretefloor035a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity func_illusionary (7.00 363.50 292.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6144.0 4608.0 1642.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6656.0 5120.0 1642.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7168.0 4608.0 1642.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6144.0 3584.0 1642.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7168.0 3584.0 1642.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6144.0 2560.0 1642.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7168.0 2560.0 1642.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6144.0 1536.0 1642.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 270 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_mwm_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_mwm_tf2_04 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_mwm_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_mwm_tf2_04 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (848208 bytes)
+Error! To use model "models/props_interiors/trashcankitchen01.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_interiors/trashcankitchen01.mdl"!
+Error! prop_static using model "models/props_interiors/soap_dispenser.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_interiors/soap_dispenser.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1776 texinfos to 748
+Reduced 105 texdatas to 94 (3108 bytes to 2840)
+Writing e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_181.bsp
+Wrote ZIP buffer, estimated size 4035, actual size 3017
+12 seconds elapsed
+
+
+
+32 threads
+reading e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_181.bsp
+reading e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_181.prt
+LoadPortals: couldn't read e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_181.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+[Reading texlights from 'mwm_lights.rad']
+[7 texlights parsed from 'mwm_lights.rad']
+
+Loading e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_181.bsp
+No vis information, direct lighting only.
+11064 faces
+4278989 square feet [616174464.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+79 direct lights
+0...1...2...3
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2 dev\tf\materials
+Loading e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_181.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/mcwallmart_g3_181/blend/concretefloor035a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity func_illusionary (7.00 363.50 292.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6144.0 4608.0 1642.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6656.0 5120.0 1642.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7168.0 4608.0 1642.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6144.0 3584.0 1642.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7168.0 3584.0 1642.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6144.0 2560.0 1642.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7168.0 2560.0 1642.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6144.0 1536.0 1642.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 270 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_mwm_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_mwm_tf2_04 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_mwm_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_mwm_tf2_04 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (848208 bytes)
+Error! To use model "models/props_interiors/trashcankitchen01.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_interiors/trashcankitchen01.mdl"!
+Error! prop_static using model "models/props_interiors/soap_dispenser.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_interiors/soap_dispenser.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1776 texinfos to 748
+Reduced 105 texdatas to 94 (3108 bytes to 2840)
+Writing e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_181.bsp
+Wrote ZIP buffer, estimated size 4035, actual size 3017
+10 seconds elapsed
+
+
+
+32 threads
+reading e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_181.bsp
+reading e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_181.prt
+LoadPortals: couldn't read e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_181.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+[Reading texlights from 'mwm_lights.rad']
+[7 texlights parsed from 'mwm_lights.rad']
+
+Loading e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_181.bsp
+No vis information, direct lighting only.
+11064 faces
+4278989 square feet [616174464.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+79 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0201 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 10 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 105/1024         5040/49152    (10.3%) 
+brushes               2183/8192        26196/98304    (26.6%) 
+brushsides           13877/65536      111016/524288   (21.2%) 
+planes                4076/65536       81520/1310720  ( 6.2%) 
+vertexes             19993/65536      239916/786432   (30.5%) 
+nodes                 5557/65536      177824/2097152  ( 8.5%) 
+texinfos               748/12288       53856/884736   ( 6.1%) 
+texdata                 94/2048         3008/65536    ( 4.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                11064/65536      619584/3670016  (16.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             6706/65536      375536/3670016  (10.2%) 
+leaves                5663/65536      181216/2097152  ( 8.6%) 
+leaffaces            11882/65536       23764/131072   (18.1%) 
+leafbrushes           3480/65536        6960/131072   ( 5.3%) 
+areas                    4/256            32/2048     ( 1.6%) 
+surfedges            81452/512000     325808/2048000  (15.9%) 
+edges                53066/256000     212264/1024000  (20.7%) 
+LDR worldlights         79/8192         6952/720896   ( 1.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            553/32768        5530/327680   ( 1.7%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         10707/65536       21414/131072   (16.3%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 4/512          1408/180224   ( 0.8%) 
+LDR lightdata         [variable]     4168912/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       87527/393216   (22.3%) 
+LDR ambient table     5663/65536       22652/262144   ( 8.6%) 
+HDR ambient table     5663/65536       22652/262144   ( 8.6%) 
+LDR leaf ambient     25796/65536      722288/1835008  (39.4%) 
+HDR leaf ambient      5663/65536      158564/1835008  ( 8.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/70118    ( 0.0%) 
+pakfile               [variable]     2108621/0        ( 0.0%) 
+physics               [variable]      848208/4194304  (20.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 1
+
+Total triangle count: 32447
+Writing e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_181.bsp
+4 minutes, 51 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+[Reading texlights from 'mwm_lights.rad']
+[7 texlights parsed from 'mwm_lights.rad']
+
+Loading e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_181.bsp
+No vis information, direct lighting only.
+11064 faces
+4278989 square feet [616174464.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+79 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0214 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 10 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 105/1024         5040/49152    (10.3%) 
+brushes               2183/8192        26196/98304    (26.6%) 
+brushsides           13877/65536      111016/524288   (21.2%) 
+planes                4076/65536       81520/1310720  ( 6.2%) 
+vertexes             19993/65536      239916/786432   (30.5%) 
+nodes                 5557/65536      177824/2097152  ( 8.5%) 
+texinfos               748/12288       53856/884736   ( 6.1%) 
+texdata                 94/2048         3008/65536    ( 4.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                11064/65536      619584/3670016  (16.9%) 
+hdr faces            11064/65536      619584/3670016  (16.9%) 
+origfaces             6706/65536      375536/3670016  (10.2%) 
+leaves                5663/65536      181216/2097152  ( 8.6%) 
+leaffaces            11882/65536       23764/131072   (18.1%) 
+leafbrushes           3480/65536        6960/131072   ( 5.3%) 
+areas                    4/256            32/2048     ( 1.6%) 
+surfedges            81452/512000     325808/2048000  (15.9%) 
+edges                53066/256000     212264/1024000  (20.7%) 
+LDR worldlights         79/8192         6952/720896   ( 1.0%) 
+HDR worldlights         79/8192         6952/720896   ( 1.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            553/32768        5530/327680   ( 1.7%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         10707/65536       21414/131072   (16.3%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 4/512          1408/180224   ( 0.8%) 
+LDR lightdata         [variable]     4168912/0        ( 0.0%) 
+HDR lightdata         [variable]     4168912/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       87527/393216   (22.3%) 
+LDR ambient table     5663/65536       22652/262144   ( 8.6%) 
+HDR ambient table     5663/65536       22652/262144   ( 8.6%) 
+LDR leaf ambient     25796/65536      722288/1835008  (39.4%) 
+HDR leaf ambient     25796/65536      722288/1835008  (39.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/70118    ( 0.0%) 
+pakfile               [variable]     4220793/0        ( 0.0%) 
+physics               [variable]      848208/4194304  (20.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 3
+
+Total triangle count: 32447
+Writing e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_181.bsp
+4 minutes, 35 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2 dev\tf\materials
+Loading e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_181.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/mcwallmart_g3_181/blend/concretefloor035a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity func_illusionary (7.00 363.50 292.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6144.0 4608.0 1642.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6656.0 5120.0 1642.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7168.0 4608.0 1642.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6144.0 3584.0 1642.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7168.0 3584.0 1642.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6144.0 2560.0 1642.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7168.0 2560.0 1642.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6144.0 1536.0 1642.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 270 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_mwm_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_mwm_tf2_04 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_mwm_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_mwm_tf2_04 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (848208 bytes)
+Error! To use model "models/props_interiors/trashcankitchen01.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_interiors/trashcankitchen01.mdl"!
+Error! prop_static using model "models/props_interiors/soap_dispenser.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_interiors/soap_dispenser.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1776 texinfos to 748
+Reduced 105 texdatas to 94 (3108 bytes to 2840)
+Writing e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_181.bsp
+Wrote ZIP buffer, estimated size 4035, actual size 3017
+10 seconds elapsed
+
+
+
+32 threads
+reading e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_181.bsp
+reading e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_181.prt
+LoadPortals: couldn't read e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_181.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+[Reading texlights from 'mwm_lights.rad']
+[7 texlights parsed from 'mwm_lights.rad']
+
+Loading e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_181.bsp
+No vis information, direct lighting only.
+11064 faces
+4278989 square feet [616174464.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+79 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0197 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 10 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 105/1024         5040/49152    (10.3%) 
+brushes               2183/8192        26196/98304    (26.6%) 
+brushsides           13877/65536      111016/524288   (21.2%) 
+planes                4076/65536       81520/1310720  ( 6.2%) 
+vertexes             19993/65536      239916/786432   (30.5%) 
+nodes                 5557/65536      177824/2097152  ( 8.5%) 
+texinfos               748/12288       53856/884736   ( 6.1%) 
+texdata                 94/2048         3008/65536    ( 4.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                11064/65536      619584/3670016  (16.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             6706/65536      375536/3670016  (10.2%) 
+leaves                5663/65536      181216/2097152  ( 8.6%) 
+leaffaces            11882/65536       23764/131072   (18.1%) 
+leafbrushes           3480/65536        6960/131072   ( 5.3%) 
+areas                    4/256            32/2048     ( 1.6%) 
+surfedges            81452/512000     325808/2048000  (15.9%) 
+edges                53066/256000     212264/1024000  (20.7%) 
+LDR worldlights         79/8192         6952/720896   ( 1.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            553/32768        5530/327680   ( 1.7%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         10707/65536       21414/131072   (16.3%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 4/512          1408/180224   ( 0.8%) 
+LDR lightdata         [variable]     4168912/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       87527/393216   (22.3%) 
+LDR ambient table     5663/65536       22652/262144   ( 8.6%) 
+HDR ambient table     5663/65536       22652/262144   ( 8.6%) 
+LDR leaf ambient     25796/65536      722288/1835008  (39.4%) 
+HDR leaf ambient      5663/65536      158564/1835008  ( 8.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/70118    ( 0.0%) 
+pakfile               [variable]     2108621/0        ( 0.0%) 
+physics               [variable]      848208/4194304  (20.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 1
+
+Total triangle count: 32447
+Writing e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_181.bsp
+4 minutes, 53 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+[Reading texlights from 'mwm_lights.rad']
+[7 texlights parsed from 'mwm_lights.rad']
+
+Loading e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_181.bsp
+No vis information, direct lighting only.
+11064 faces
+4278989 square feet [616174464.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+79 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0208 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 10 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 105/1024         5040/49152    (10.3%) 
+brushes               2183/8192        26196/98304    (26.6%) 
+brushsides           13877/65536      111016/524288   (21.2%) 
+planes                4076/65536       81520/1310720  ( 6.2%) 
+vertexes             19993/65536      239916/786432   (30.5%) 
+nodes                 5557/65536      177824/2097152  ( 8.5%) 
+texinfos               748/12288       53856/884736   ( 6.1%) 
+texdata                 94/2048         3008/65536    ( 4.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                11064/65536      619584/3670016  (16.9%) 
+hdr faces            11064/65536      619584/3670016  (16.9%) 
+origfaces             6706/65536      375536/3670016  (10.2%) 
+leaves                5663/65536      181216/2097152  ( 8.6%) 
+leaffaces            11882/65536       23764/131072   (18.1%) 
+leafbrushes           3480/65536        6960/131072   ( 5.3%) 
+areas                    4/256            32/2048     ( 1.6%) 
+surfedges            81452/512000     325808/2048000  (15.9%) 
+edges                53066/256000     212264/1024000  (20.7%) 
+LDR worldlights         79/8192         6952/720896   ( 1.0%) 
+HDR worldlights         79/8192         6952/720896   ( 1.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            553/32768        5530/327680   ( 1.7%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         10707/65536       21414/131072   (16.3%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 4/512          1408/180224   ( 0.8%) 
+LDR lightdata         [variable]     4168912/0        ( 0.0%) 
+HDR lightdata         [variable]     4168912/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       87527/393216   (22.3%) 
+LDR ambient table     5663/65536       22652/262144   ( 8.6%) 
+HDR ambient table     5663/65536       22652/262144   ( 8.6%) 
+LDR leaf ambient     25796/65536      722288/1835008  (39.4%) 
+HDR leaf ambient     25796/65536      722288/1835008  (39.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/70118    ( 0.0%) 
+pakfile               [variable]     4220793/0        ( 0.0%) 
+physics               [variable]      848208/4194304  (20.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 3
+
+Total triangle count: 32447
+Writing e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_181.bsp
+4 minutes, 38 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2 dev\tf\materials
+Loading e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_181.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/mcwallmart_g3_181/blend/concretefloor035a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_dynamic (4610.00 -131.00 -201.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7680.0 5120.0 1642.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8192.0 4608.0 1642.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8192.0 3584.0 1642.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6144.0 4608.0 1642.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6656.0 5120.0 1642.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6144.0 3584.0 1642.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8192.0 2560.0 1642.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8192.0 1536.0 1642.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 582 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_mwm_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_mwm_tf2_04 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_mwm_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_mwm_tf2_04 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (683096 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 3417 texinfos to 2025
+Reduced 177 texdatas to 155 (4572 bytes to 4082)
+Writing e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_181.bsp
+Wrote ZIP buffer, estimated size 8510, actual size 6286
+10 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2 dev\tf\materials
+Loading e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_181.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/mcwallmart_g3_181/blend/concretefloor035a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_dynamic (4610.00 -131.00 -201.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7680.0 5120.0 1642.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8192.0 4608.0 1642.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8192.0 3584.0 1642.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6144.0 4608.0 1642.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6656.0 5120.0 1642.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6144.0 3584.0 1642.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8192.0 2560.0 1642.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8192.0 1536.0 1642.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 926 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_mwm_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_mwm_tf2_04 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_mwm_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_mwm_tf2_04 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (818575 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 3958 texinfos to 2458
+Reduced 216 texdatas to 186 (5530 bytes to 4863)
+Writing e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_181.bsp
+Wrote ZIP buffer, estimated size 10501, actual size 7741
+12 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2 dev\tf\materials
+Loading e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_181.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/mcwallmart_g3_181/blend/concretefloor035a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_dynamic (4610.00 -131.00 -201.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7680.0 5120.0 1642.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8192.0 4608.0 1642.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8192.0 3584.0 1642.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6144.0 4608.0 1642.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6656.0 5120.0 1642.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6144.0 3584.0 1642.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8192.0 2560.0 1642.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8192.0 1536.0 1642.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 926 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_mwm_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_mwm_tf2_04 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_mwm_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_mwm_tf2_04 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (818575 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 3958 texinfos to 2458
+Reduced 216 texdatas to 186 (5530 bytes to 4863)
+Writing e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_181.bsp
+Wrote ZIP buffer, estimated size 10501, actual size 7741
+12 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2 dev\tf\materials
+Loading e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_181.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/mcwallmart_g3_181/blend/concretefloor035a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_dynamic (4610.00 -131.00 -201.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7680.0 5120.0 1642.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8192.0 4608.0 1642.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8192.0 3584.0 1642.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6144.0 4608.0 1642.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6656.0 5120.0 1642.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6144.0 3584.0 1642.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8192.0 2560.0 1642.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8192.0 1536.0 1642.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 926 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_mwm_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_mwm_tf2_04 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_mwm_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_mwm_tf2_04 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (818575 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 3958 texinfos to 2458
+Reduced 216 texdatas to 186 (5530 bytes to 4863)
+Writing e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_181.bsp
+Wrote ZIP buffer, estimated size 10501, actual size 7741
+12 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2 dev\tf\materials
+Loading e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_181.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/mcwallmart_g3_181/blend/concretefloor035a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_dynamic (4610.00 -131.00 -201.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7680.0 5120.0 1642.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8192.0 4608.0 1642.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8192.0 3584.0 1642.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6144.0 4608.0 1642.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6656.0 5120.0 1642.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6144.0 3584.0 1642.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8192.0 2560.0 1642.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8192.0 1536.0 1642.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 926 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_mwm_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_mwm_tf2_04 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_mwm_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_mwm_tf2_04 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (818575 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 3958 texinfos to 2458
+Reduced 216 texdatas to 186 (5530 bytes to 4863)
+Writing e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_181.bsp
+Wrote ZIP buffer, estimated size 10501, actual size 7741
+11 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2 dev\tf\materials
+Loading e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_181.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/mcwallmart_g3_181/blend/concretefloor035a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_dynamic (4610.00 -131.00 -201.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7680.0 5120.0 1642.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8192.0 4608.0 1642.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8192.0 3584.0 1642.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6144.0 4608.0 1642.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6656.0 5120.0 1642.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6144.0 3584.0 1642.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8192.0 2560.0 1642.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8192.0 1536.0 1642.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 926 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+*** Error: Skybox vtf files for skybox/sky_mwm_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_mwm_tf2_04 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_mwm_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_mwm_tf2_04 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (818575 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 3958 texinfos to 2458
+Reduced 216 texdatas to 186 (5530 bytes to 4863)
+Writing e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_181.bsp
+Wrote ZIP buffer, estimated size 10501, actual size 7741
+13 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2 dev\tf\materials
+Loading e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_181.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/mcwallmart_g3_181/blend/concretefloor035a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_dynamic (4610.00 -131.00 -201.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7680.0 5120.0 1642.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8192.0 4608.0 1642.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8192.0 3584.0 1642.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6144.0 4608.0 1642.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6656.0 5120.0 1642.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6144.0 3584.0 1642.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8192.0 2560.0 1642.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8192.0 1536.0 1642.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 926 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_mwm_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_mwm_tf2_04 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_mwm_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_mwm_tf2_04 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (819131 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 3958 texinfos to 2458
+Reduced 216 texdatas to 186 (5530 bytes to 4863)
+Writing e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_181.bsp
+Wrote ZIP buffer, estimated size 10501, actual size 7741
+11 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2 dev\tf\materials
+Loading e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_181.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/mcwallmart_g3_181/blend/concretefloor035a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_dynamic (4610.00 -131.00 -201.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7680.0 5120.0 1642.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8192.0 4608.0 1642.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8192.0 3584.0 1642.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6144.0 4608.0 1642.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6656.0 5120.0 1642.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6144.0 3584.0 1642.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8192.0 2560.0 1642.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8192.0 1536.0 1642.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 926 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_mwm_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_mwm_tf2_04 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_mwm_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_mwm_tf2_04 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (819131 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 3960 texinfos to 2460
+Reduced 216 texdatas to 186 (5530 bytes to 4863)
+Writing e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_181.bsp
+Wrote ZIP buffer, estimated size 10501, actual size 7741
+11 seconds elapsed
