@@ -1,0 +1,577 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2 dev\tf\materials
+Loading e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_187.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/mcwallmart_g3_187/blend/concretefloor035a_wvt_patch
+Patching WVT material: maps/mcwallmart_g3_187/concrete/custom033oblend_wvt_patch
+Patching WVT material: maps/mcwallmart_g3_187/concrete/trashconcreteblend_wvt_patch
+Patching WVT material: maps/mcwallmart_g3_187/harvest/ground_to_green_grass_001_wvt_patch
+Patching WVT material: maps/mcwallmart_g3_187/nature/sanddirtgrass_blend_wvt_patch
+Patching WVT material: maps/mcwallmart_g3_187/concrete/custom011ablend_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (1)
+Find Visible Detail Sides...
+Merged 1884 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_187.prt...Building visibility clusters...
+done (0)
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4.9 7.4 25.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 562929: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (0.7 9.8 22.5)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 562929: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (0.4 10.4 31.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 562929: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7.5 17.4 26.6)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 562929: 
+
+*** Error: Skybox vtf files for skybox/sky_mwm_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_mwm_tf2_04 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_mwm_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_mwm_tf2_04 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (3) (2333884 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 8626 texinfos to 5162
+Reduced 445 texdatas to 385 (12355 bytes to 10426)
+Writing e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_187.bsp
+Wrote ZIP buffer, estimated size 22150, actual size 16442
+26 seconds elapsed
+
+
+
+16 threads
+reading e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_187.bsp
+reading e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_187.prt
+2799 portalclusters
+7339 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 12008 visible clusters (0.56%)
+Total clusters visible: 2152459
+Average clusters visible: 769
+Building PAS...
+Average clusters audible: 1946
+visdatasize:1470917  compressed from 1970496
+writing e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_187.bsp
+7 minutes, 19 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+[Reading texlights from 'mwm_lights.rad']
+[8 texlights parsed from 'mwm_lights.rad']
+
+Loading e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_187.bsp
+Loaded alpha texture materials\models\props_foliage\shrub_03_skin2.vtf
+Loaded alpha texture materials\models\props_foliage\shrub_03.vtf
+Loaded alpha texture materials\models\props_foliage\shrub_03_snow.vtf
+Loaded alpha texture materials\Models\props_gameplay\security_fence_alpha.vtf
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+28712 faces
+4 degenerate faces
+4274606 square feet [615543232.00 square inches]
+1971 Displacements
+728008 Square Feet [104833176.00 Square Inches]
+28708 patches before subdivision
+323988 patches after subdivision
+959 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 45901669, max 2775
+transfer lists: 350.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(2240196, 2009131, 1571153)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(784567, 756702, 616918)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(216110, 196185, 137522)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(97712, 87138, 60616)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(32933, 26426, 15072)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(15423, 11944, 6754)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(5918, 4034, 1811)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(2807, 1821, 806)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(1183, 668, 229)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(569, 301, 101)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(256, 118, 30)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(125, 53, 13)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(59, 22, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(29, 10, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(14, 4, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(7, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(4, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.1331 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+28 of 652 (4% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 322/1024        15456/49152    (31.4%) 
+brushes               5900/8192        70800/98304    (72.0%) 
+brushsides           42858/65536      342864/524288   (65.4%) 
+planes               26400/65536      528000/1310720  (40.3%) 
+vertexes             49470/65536      593640/786432   (75.5%) 
+nodes                12780/65536      408960/2097152  (19.5%) 
+texinfos              5162/12288      371664/884736   (42.0%) 
+texdata                385/2048        12320/65536    (18.8%) 
+dispinfos             1971/0          346896/0        ( 0.0%) 
+disp_verts           61819/0         1236380/0        ( 0.0%) 
+disp_tris            84576/0          169152/0        ( 0.0%) 
+disp_lmsamples     3794264/0         3794264/0        ( 0.0%) 
+faces                28712/65536     1607872/3670016  (43.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            21053/65536     1178968/3670016  (32.1%) 
+leaves               13103/65536      419296/2097152  (20.0%) 
+leaffaces            31721/65536       63442/131072   (48.4%) 
+leafbrushes          13585/65536       27170/131072   (20.7%) 
+areas                   14/256           112/2048     ( 5.5%) 
+surfedges           222438/512000     889752/2048000  (43.4%) 
+edges               139690/256000     558760/1024000  (54.6%) 
+LDR worldlights        959/8192        84392/720896   (11.7%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            4/32768          48/393216   ( 0.0%) 
+waterstrips           1828/32768       18280/327680   ( 5.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         35472/65536       70944/131072   (54.1%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays               267/512         93984/180224   (52.1%) 
+LDR lightdata         [variable]    12814824/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     1470917/16777216 ( 8.8%) 
+entdata               [variable]      471457/393216   (119.9%) VERY FULL!
+LDR ambient table    13103/65536       52412/262144   (20.0%) 
+HDR ambient table    13103/65536       52412/262144   (20.0%) 
+LDR leaf ambient     62971/65536     1763188/1835008  (96.1%) VERY FULL!
+HDR leaf ambient     13103/65536      366884/1835008  (20.0%) 
+occluders                1/0              40/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/353144   ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/133170   ( 0.0%) 
+pakfile               [variable]     5741418/0        ( 0.0%) 
+physics               [variable]     2333884/4194304  (55.6%) 
+physics terrain       [variable]      149685/1048576  (14.3%) 
+
+Level flags = 1
+
+Total triangle count: 79184
+Writing e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_187.bsp
+19 minutes, 24 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+[Reading texlights from 'mwm_lights.rad']
+[8 texlights parsed from 'mwm_lights.rad']
+
+Loading e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_187.bsp
+Loaded alpha texture materials\models\props_foliage\shrub_03_skin2.vtf
+Loaded alpha texture materials\models\props_foliage\shrub_03.vtf
+Loaded alpha texture materials\models\props_foliage\shrub_03_snow.vtf
+Loaded alpha texture materials\Models\props_gameplay\security_fence_alpha.vtf
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+28712 faces
+4 degenerate faces
+4274606 square feet [615543232.00 square inches]
+1971 Displacements
+728008 Square Feet [104833176.00 Square Inches]
+28708 patches before subdivision
+323988 patches after subdivision
+959 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 45901669, max 2775
+transfer lists: 350.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(2240195, 2009131, 1571152)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(784566, 756701, 616917)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(216110, 196185, 137522)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(97712, 87138, 60616)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(32933, 26426, 15072)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(15423, 11944, 6754)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(5918, 4034, 1811)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(2807, 1821, 806)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(1183, 668, 229)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(569, 301, 101)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(256, 118, 30)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(125, 53, 13)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(59, 22, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(29, 10, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(14, 4, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(7, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(4, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.1398 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+28 of 652 (4% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 322/1024        15456/49152    (31.4%) 
+brushes               5900/8192        70800/98304    (72.0%) 
+brushsides           42858/65536      342864/524288   (65.4%) 
+planes               26400/65536      528000/1310720  (40.3%) 
+vertexes             49470/65536      593640/786432   (75.5%) 
+nodes                12780/65536      408960/2097152  (19.5%) 
+texinfos              5162/12288      371664/884736   (42.0%) 
+texdata                385/2048        12320/65536    (18.8%) 
+dispinfos             1971/0          346896/0        ( 0.0%) 
+disp_verts           61819/0         1236380/0        ( 0.0%) 
+disp_tris            84576/0          169152/0        ( 0.0%) 
+disp_lmsamples     3794264/0         3794264/0        ( 0.0%) 
+faces                28712/65536     1607872/3670016  (43.8%) 
+hdr faces            28712/65536     1607872/3670016  (43.8%) 
+origfaces            21053/65536     1178968/3670016  (32.1%) 
+leaves               13103/65536      419296/2097152  (20.0%) 
+leaffaces            31721/65536       63442/131072   (48.4%) 
+leafbrushes          13585/65536       27170/131072   (20.7%) 
+areas                   14/256           112/2048     ( 5.5%) 
+surfedges           222438/512000     889752/2048000  (43.4%) 
+edges               139690/256000     558760/1024000  (54.6%) 
+LDR worldlights        959/8192        84392/720896   (11.7%) 
+HDR worldlights        959/8192        84392/720896   (11.7%) 
+leafwaterdata            4/32768          48/393216   ( 0.0%) 
+waterstrips           1828/32768       18280/327680   ( 5.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         35472/65536       70944/131072   (54.1%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays               267/512         93984/180224   (52.1%) 
+LDR lightdata         [variable]    12814824/0        ( 0.0%) 
+HDR lightdata         [variable]    12814824/0        ( 0.0%) 
+visdata               [variable]     1470917/16777216 ( 8.8%) 
+entdata               [variable]      471457/393216   (119.9%) VERY FULL!
+LDR ambient table    13103/65536       52412/262144   (20.0%) 
+HDR ambient table    13103/65536       52412/262144   (20.0%) 
+LDR leaf ambient     62971/65536     1763188/1835008  (96.1%) VERY FULL!
+HDR leaf ambient     62971/65536     1763188/1835008  (96.1%) VERY FULL!
+occluders                1/0              40/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/353144   ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/133170   ( 0.0%) 
+pakfile               [variable]    11477466/0        ( 0.0%) 
+physics               [variable]     2333884/4194304  (55.6%) 
+physics terrain       [variable]      149685/1048576  (14.3%) 
+
+Level flags = 3
+
+Total triangle count: 79184
+Writing e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_187.bsp
+19 minutes, 9 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2 dev\tf\materials
+Loading e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_187.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/mcwallmart_g3_187/blend/concretefloor035a_wvt_patch
+Patching WVT material: maps/mcwallmart_g3_187/concrete/custom033oblend_wvt_patch
+Patching WVT material: maps/mcwallmart_g3_187/concrete/trashconcreteblend_wvt_patch
+Patching WVT material: maps/mcwallmart_g3_187/harvest/ground_to_green_grass_001_wvt_patch
+Patching WVT material: maps/mcwallmart_g3_187/nature/sanddirtgrass_blend_wvt_patch
+Patching WVT material: maps/mcwallmart_g3_187/concrete/custom011ablend_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1884 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_187.prt...Building visibility clusters...
+done (0)
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4.9 7.4 25.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 562929: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (0.7 9.8 22.5)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 562929: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (0.4 10.4 31.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 562929: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7.5 17.4 26.6)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 562929: 
+
+*** Error: Skybox vtf files for skybox/sky_mwm_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_mwm_tf2_04 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_mwm_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_mwm_tf2_04 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (3) (2333884 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 8626 texinfos to 5162
+Reduced 445 texdatas to 385 (12355 bytes to 10426)
+Writing e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_187.bsp
+Wrote ZIP buffer, estimated size 22150, actual size 16442
+23 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2 dev\tf\materials
+Loading e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_187.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/mcwallmart_g3_187/blend/concretefloor035a_wvt_patch
+Patching WVT material: maps/mcwallmart_g3_187/concrete/custom033oblend_wvt_patch
+Patching WVT material: maps/mcwallmart_g3_187/concrete/trashconcreteblend_wvt_patch
+Patching WVT material: maps/mcwallmart_g3_187/harvest/ground_to_green_grass_001_wvt_patch
+Patching WVT material: maps/mcwallmart_g3_187/nature/sanddirtgrass_blend_wvt_patch
+Patching WVT material: maps/mcwallmart_g3_187/concrete/custom011ablend_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1884 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_187.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_mwm_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_mwm_tf2_04 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_mwm_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_mwm_tf2_04 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (4) (2333124 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 8624 texinfos to 5160
+Reduced 445 texdatas to 385 (12355 bytes to 10426)
+Writing e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_187.bsp
+Wrote ZIP buffer, estimated size 22150, actual size 16442
+22 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2 dev\tf\materials
+Loading e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_187.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/mcwallmart_g3_187/blend/concretefloor035a_wvt_patch
+Patching WVT material: maps/mcwallmart_g3_187/concrete/custom033oblend_wvt_patch
+Patching WVT material: maps/mcwallmart_g3_187/concrete/trashconcreteblend_wvt_patch
+Patching WVT material: maps/mcwallmart_g3_187/harvest/ground_to_green_grass_001_wvt_patch
+Patching WVT material: maps/mcwallmart_g3_187/nature/sanddirtgrass_blend_wvt_patch
+Patching WVT material: maps/mcwallmart_g3_187/concrete/custom011ablend_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1884 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_187.prt...Building visibility clusters...
+done (0)
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4.9 7.4 25.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 562929: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (0.7 9.8 22.5)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 562929: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (0.4 10.4 31.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 562929: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7.5 17.4 26.6)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 562929: 
+
+*** Error: Skybox vtf files for skybox/sky_mwm_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_mwm_tf2_04 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_mwm_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_mwm_tf2_04 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (3) (2333884 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 8626 texinfos to 5162
+Reduced 445 texdatas to 385 (12355 bytes to 10426)
+Writing e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_187.bsp
+Wrote ZIP buffer, estimated size 22150, actual size 16442
+23 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2 dev\tf\materials
+Loading e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_187.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/mcwallmart_g3_187/blend/concretefloor035a_wvt_patch
+Patching WVT material: maps/mcwallmart_g3_187/concrete/custom033oblend_wvt_patch
+Patching WVT material: maps/mcwallmart_g3_187/concrete/trashconcreteblend_wvt_patch
+Patching WVT material: maps/mcwallmart_g3_187/harvest/ground_to_green_grass_001_wvt_patch
+Patching WVT material: maps/mcwallmart_g3_187/nature/sanddirtgrass_blend_wvt_patch
+Patching WVT material: maps/mcwallmart_g3_187/concrete/custom011ablend_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (1)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1884 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_187.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_mwm_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_mwm_tf2_04 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_mwm_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_mwm_tf2_04 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (3) (2334220 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 8626 texinfos to 5161
+Reduced 444 texdatas to 384 (12298 bytes to 10390)
+Writing e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_187.bsp
+Wrote ZIP buffer, estimated size 22087, actual size 16379
+23 seconds elapsed
