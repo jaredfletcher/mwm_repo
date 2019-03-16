@@ -1,0 +1,241 @@
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\Source SDK Base 2013 Multiplayer\devtf\materials
+Loading e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_193.vmf
+Map revision 3251
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate GameData file tf.fgd
+Patching WVT material: maps/mcwallmart_g3_193/nature/sanddirtgrass_blend_wvt_patch
+Patching WVT material: maps/mcwallmart_g3_193/blend/concretefloor035a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 18 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_193.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (34959 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 307 texinfos to 156
+Reduced 22 texdatas to 19 (577 bytes to 438)
+Writing e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_193.bsp
+Wrote ZIP buffer, estimated size 87998, actual size 87516
+1 second elapsed
+
+
+
+32 threads
+reading e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_193.bsp
+reading e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_193.prt
+   8 portalclusters
+  29 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 59
+Average clusters visible: 7
+Building PAS...
+Average clusters audible: 8
+visdatasize:84  compressed from 128
+writing e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_193.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[55 texlights parsed from 'lights.rad']
+
+[Reading texlights from 'mwm_lights.rad']
+[8 texlights parsed from 'mwm_lights.rad']
+
+Loading e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_193.bsp
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+563 faces
+248462 square feet [35778592.00 square inches]
+168 Displacements
+55654 Square Feet [8014187.50 Square Inches]
+563 patches before subdivision
+2429 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 86394, max 232
+transfer lists:   0.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0013 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/4096          144/196608   ( 0.1%) 
+brushes                 84/16384        1008/196608   ( 0.5%) 
+brushsides             584/65536        4672/524288   ( 0.9%) 
+planes                 918/65536       18360/1310720  ( 1.4%) 
+vertexes               915/65536       10980/786432   ( 1.4%) 
+nodes                  159/65536        5088/2097152  ( 0.2%) 
+texinfos               156/12288       11232/884736   ( 1.3%) 
+texdata                 19/2048          608/65536    ( 0.9%) 
+dispinfos              168/0           29568/0        ( 0.0%) 
+disp_verts            5264/0          105280/0        ( 0.0%) 
+disp_tris             7200/0           14400/0        ( 0.0%) 
+disp_lmsamples       80884/0           80884/0        ( 0.0%) 
+faces                  563/65536       31528/3670016  ( 0.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              545/65536       30520/3670016  ( 0.8%) 
+leaves                 163/65536        5216/2097152  ( 0.2%) 
+leaffaces              434/65536         868/131072   ( 0.7%) 
+leafbrushes            222/65536         444/131072   ( 0.3%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             4623/512000      18492/2048000  ( 0.9%) 
+edges                 2785/256000      11140/1024000  ( 1.1%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights          0/16384           0/1441792  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             16/65536         160/655360   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           303/65536         606/131072   ( 0.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      122456/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]          84/16777216 ( 0.0%) 
+entdata               [variable]        3589/393216   ( 0.9%) 
+LDR ambient table      163/65536         652/262144   ( 0.2%) 
+HDR ambient table      163/65536         652/262144   ( 0.2%) 
+LDR leaf ambient        72/65536        2016/1835008  ( 0.1%) 
+HDR leaf ambient       163/65536        4564/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/24384    ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/620      ( 0.2%) 
+pakfile               [variable]       98544/0        ( 0.0%) 
+physics               [variable]       34959/4194304  ( 0.8%) 
+physics terrain       [variable]        9802/1048576  ( 0.9%) 
+
+Level flags = 1
+
+Total triangle count: 1280
+Writing e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_193.bsp
+2 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[55 texlights parsed from 'lights.rad']
+
+[Reading texlights from 'mwm_lights.rad']
+[8 texlights parsed from 'mwm_lights.rad']
+
+Loading e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_193.bsp
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+563 faces
+248462 square feet [35778592.00 square inches]
+168 Displacements
+55654 Square Feet [8014187.50 Square Inches]
+563 patches before subdivision
+2429 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 86394, max 232
+transfer lists:   0.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0014 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/4096          144/196608   ( 0.1%) 
+brushes                 84/16384        1008/196608   ( 0.5%) 
+brushsides             584/65536        4672/524288   ( 0.9%) 
+planes                 918/65536       18360/1310720  ( 1.4%) 
+vertexes               915/65536       10980/786432   ( 1.4%) 
+nodes                  159/65536        5088/2097152  ( 0.2%) 
+texinfos               156/12288       11232/884736   ( 1.3%) 
+texdata                 19/2048          608/65536    ( 0.9%) 
+dispinfos              168/0           29568/0        ( 0.0%) 
+disp_verts            5264/0          105280/0        ( 0.0%) 
+disp_tris             7200/0           14400/0        ( 0.0%) 
+disp_lmsamples       80884/0           80884/0        ( 0.0%) 
+faces                  563/65536       31528/3670016  ( 0.9%) 
+hdr faces              563/65536       31528/3670016  ( 0.9%) 
+origfaces              545/65536       30520/3670016  ( 0.8%) 
+leaves                 163/65536        5216/2097152  ( 0.2%) 
+leaffaces              434/65536         868/131072   ( 0.7%) 
+leafbrushes            222/65536         444/131072   ( 0.3%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             4623/512000      18492/2048000  ( 0.9%) 
+edges                 2785/256000      11140/1024000  ( 1.1%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights          0/16384           0/1441792  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             16/65536         160/655360   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           303/65536         606/131072   ( 0.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      122456/0        ( 0.0%) 
+HDR lightdata         [variable]      122456/0        ( 0.0%) 
+visdata               [variable]          84/16777216 ( 0.0%) 
+entdata               [variable]        3589/393216   ( 0.9%) 
+LDR ambient table      163/65536         652/262144   ( 0.2%) 
+HDR ambient table      163/65536         652/262144   ( 0.2%) 
+LDR leaf ambient        72/65536        2016/1835008  ( 0.1%) 
+HDR leaf ambient        72/65536        2016/1835008  ( 0.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/24384    ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/620      ( 0.2%) 
+pakfile               [variable]      109596/0        ( 0.0%) 
+physics               [variable]       34959/4194304  ( 0.8%) 
+physics terrain       [variable]        9802/1048576  ( 0.9%) 
+
+Level flags = 3
+
+Total triangle count: 1280
+Writing e:\workspace\mapstuff\github\mwm_repo\jared\map_indev\mcwallmart_g3_193.bsp
+2 seconds elapsed
