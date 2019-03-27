@@ -1,0 +1,28 @@
+ideal {
+	-press button 1
+		-get item 1 (sandwich)
+			-use !grab to move it to another machine
+	-press button 2
+		-get item 2 (fries)
+			-use !grab to move it to another machine
+	-press button 3
+		-get item 3 (soda)
+			-use !grab to move it to another machine
+	-get "compiled" tray-meal from other machine
+}
+
+wants {
+	-can only spawn ~10 max items of each type
+	-spamming the button doesn't delete older items
+	-items don't expire
+	-items can stay long term for a player to figure out what to do
+		-to not be frustrated by button spam, timed expiration
+	-apply timed expiration to items that leave inside mcdee
+		-remove it when brought back inside before expiration
+	-have dispenser "run-out" of items at 10 each
+		-regains more each time a full meal-tray is "compiled"
+			-also when items are thrown in the trash
+				-might be possibly abused, but it would be pretty funny
+					-(memer1 trying to make a meal-tray, but memer2 grabs everything and throws it away each time memer1 spawns something)
+	-"compiler" machine can only make 5 full trays
+}
